@@ -1,0 +1,71 @@
+.body {
+  background: fixed;
+  background-color: black;
+}
+
+.DarkBG {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 7%;
+  background-image: url("/Data/bg/dark.bg.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.LightBG {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 80%;
+  background-image: url("/Data/bg/light.bg.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.LightTLT {
+  position: absolute;
+  font-size: 20px;
+  font-family: "Parisienne";
+  color: #7c726b;
+  top: 5%;
+  left: 38%;
+}
+
+.DarkTLT {
+  position: absolute;
+  font-size: 20px;
+  font-family: "Parisienne";
+  color: #d7bea5;
+  top: 5%;
+  left: 38%;
+}
+
+.logo-menu {
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 10%;
+}
+
+.logo-sun {
+  position: absolute;
+  width: 150px;
+  height: 180px;
+  margin-left: -10%;
+}
+
+.logo-moon {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin-right: 10%;
+  margin-top: 1%;
+}
