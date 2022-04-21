@@ -5,7 +5,7 @@ function LightHome() {
 }
 
 function DarkHome() {
-    window.location.replace("https://5500-dimensionwe-mymemorycol-a6wpi5if8bz.ws-eu34.gitpod.io/index.html");
+    window.location.replace("https://mymemorycollection.com/index.html");
 }
 
 /////////////////////NAVBAR END////////////////////////////////////////////////////
