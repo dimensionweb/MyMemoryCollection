@@ -5,7 +5,7 @@ function LightHome() {
 }
 
 function DarkHome() {
-    window.location.replace("https://mymemorycollection.com/index.html");
+    window.location.replace("https://mymemorycollection.com");
 }
 
 /////////////////////NAVBAR END////////////////////////////////////////////////////
