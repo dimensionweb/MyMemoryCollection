@@ -1,7 +1,7 @@
 /////////////////////NAVBAR START//////////////////////////////////////////////////
 
 function LightHome() {
-    window.location.replace("/Pages/light.html");
+    window.location.replace("/Pages/light_index.html");
 }
 
 function DarkHome() {
