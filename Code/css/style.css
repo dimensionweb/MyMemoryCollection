@@ -42,30 +42,31 @@
 
 .DarkTLT {
   position: absolute;
-  font-size: 20px;
+  font-size: 60px;
   font-family: "Parisienne";
   color: #d7bea5;
   top: 5%;
-  left: 38%;
+  margin-left: 15%;
 }
 
 .logo-menu {
   margin-left: 50%;
   margin-right: 50%;
-  margin-top: 10%;
+  margin-top: 30%;
+  zoom: 250%;
 }
 
 .logo-sun {
   position: absolute;
   width: 150px;
   height: 180px;
-  margin-left: -10%;
+  margin-left: -20%;
 }
 
 .logo-moon {
   position: absolute;
   width: 150px;
   height: 150px;
-  margin-right: 10%;
-  margin-top: 1%;
+  margin-right: 20%;
+  margin-top: 2%;
 }
