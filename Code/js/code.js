@@ -1,11 +1,11 @@
 /////////////////////NAVBAR START//////////////////////////////////////////////////
 
 function LightHome() {
-    window.location.replace("/Pages/light.html");
+    window.location.replace("/Pages/light_index.html");
 }
 
 function DarkHome() {
-    window.location.replace("https://5500-dimensionwe-mymemorycol-a6wpi5if8bz.ws-eu34.gitpod.io/index.html");
+    window.location.replace("https://mymemorycollection.com");
 }
 
 /////////////////////NAVBAR END////////////////////////////////////////////////////
